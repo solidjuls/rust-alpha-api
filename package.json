@@ -1,0 +1,8 @@
+{
+  "name": "rust-alpha-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/solidjuls/rust-alpha-api.git",
+  "author": "Juli Arnalot <juli.arnalot@gmail.com>",
+  "license": "MIT"
+}
