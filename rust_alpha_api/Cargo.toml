@@ -1,0 +1,13 @@
+[package]
+name = "rust_alpha_api"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+libpq = "3.0"
+chrono = { version = "0.4.6", features = ["serde"] }
+diesel = { version = "1.4.4", features = ["mysql", "chrono"] }
+dotenv = "0.15.0"
+actix-web = "4"
