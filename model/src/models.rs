@@ -1,7 +1,8 @@
 use diesel::Insertable;
 use super::schema::users;
+use serde::Serialize;
 
-#[derive(Queryable)]
+#[derive(Queryable, Serialize)]
 pub struct Users {
     pub id: i64,
     pub name: Option<String>,
