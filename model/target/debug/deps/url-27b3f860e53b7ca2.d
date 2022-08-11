@@ -1,0 +1,13 @@
+/Users/juli.arnalot/Desktop/projects/rust-alpha-api/model/target/debug/deps/url-27b3f860e53b7ca2.rmeta: /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/Users/juli.arnalot/Desktop/projects/rust-alpha-api/model/target/debug/deps/url-27b3f860e53b7ca2.d: /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs:
+/Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs:
+/Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs:
+/Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs:
+/Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs:
+/Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs:
+/Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs:
+/Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs:
+/Users/juli.arnalot/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs:

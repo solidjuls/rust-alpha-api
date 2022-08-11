@@ -22,9 +22,3 @@ pub fn write_users() {
     user
     // println!("\nSaved draft {} with id {}", title, user.);
 }
-
-#[cfg(not(windows))]
-const EOF: &'static str = "CTRL+D";
-
-#[cfg(windows)]
-const EOF: &'static str = "CTRL+Z";

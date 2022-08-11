@@ -32,7 +32,7 @@ pub fn create_users<'u>(conn: &MysqlConnection) {
         first_name: "Juli",
         last_name: "Arnalot",
     };
-
+// select (by date, name), check the ID where the process starts, give that game new values (name, game winner, etc...), start the process 
     diesel::insert_into(users::table)
         .values(&new_users)
         .execute(conn)

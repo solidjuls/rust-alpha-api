@@ -1,8 +1,9 @@
 use crate::response::Response;
-use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
+use actix_web::{get, post, web, App, HttpResponse, HttpServer};
 use model::models::Users;
 use model::show_users::show_users;
 
+mod users;
 mod response;
 
 const APPLICATION_JSON: &str = "application/json";
